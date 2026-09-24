@@ -17,7 +17,7 @@ To remove it, open Chrome Settings, choose **Appearance**, then select
 ## Palette
 
 - Tab bar: `#031615`
-- Active tab and toolbar: `#17433B`
+- Active tab and toolbar: `#0D332F`
 - Toolbar icons: `#8EFFB1`
 - Omnibox: `#051F1D` with `#8EFFB1` URL text
 - New-tab background: `#051D1D`
