@@ -18,8 +18,8 @@ To remove it, open Chrome Settings, choose **Appearance**, then select
 
 - Tab bar: `#020F0E`
 - Active tab and toolbar: `#020F0E`
-- Toolbar icons: `#8EFFB1`
-- Omnibox: `#051F1D` with `#8EFFB1` URL text
+- Toolbar icons: `#70AB89`
+- Omnibox: `#051F1D` with `#70AB89` URL text
 - New-tab background: `#051D1D`
 
 Photo by [Kiwihug](https://unsplash.com/@kiwihug) on
