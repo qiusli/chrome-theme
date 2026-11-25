@@ -18,9 +18,9 @@ To remove it, open Chrome Settings, choose **Appearance**, then select
 
 - Tab bar: `#000504`
 - Inactive tabs: `#000504` with `#4A735F` titles
-- Active tab and toolbar: `#103430`
-- Toolbar icons: `#7EBE9A`
-- Omnibox: `#051F1D` with `#7EBE9A` URL text
+- Active tab and toolbar: `#16423D`
+- Toolbar icons: `#A0D6B8`
+- Omnibox: `#051F1D` with `#A0D6B8` URL text
 - New-tab background: `#051D1D`
 
 Photo by [Kiwihug](https://unsplash.com/@kiwihug) on

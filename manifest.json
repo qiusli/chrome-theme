@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Deep Green Ocean",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A dark teal Chrome theme inspired by an underwater school of fish.",
   "icons": {
     "128": "images/icon-128.png"
@@ -17,15 +17,15 @@
       "frame_incognito_inactive": [20, 38, 40],
       "background_tab": [0, 5, 4],
       "background_tab_inactive": [0, 5, 4],
-      "toolbar": [16, 52, 48],
+      "toolbar": [22, 66, 61],
       "toolbar_text": [220, 255, 230],
-      "toolbar_button_icon": [126, 190, 154],
+      "toolbar_button_icon": [160, 214, 184],
       "bookmark_text": [220, 255, 230],
       "tab_text": [226, 255, 235],
       "tab_background_text": [74, 115, 95],
       "tab_background_text_inactive": [62, 94, 77],
       "omnibox_background": [5, 31, 29],
-      "omnibox_text": [126, 190, 154],
+      "omnibox_text": [160, 214, 184],
       "ntp_background": [5, 29, 29],
       "ntp_text": [226, 255, 235],
       "ntp_link": [142, 255, 177],
